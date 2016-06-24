@@ -15,11 +15,8 @@ String:
 
 Options start:
 1) Search the current date
-
 ./NezUserLicenseStat
-
 2) Search the specific date
-
 ./NezUserLicenseStat -d=2016-06-14
 
 
