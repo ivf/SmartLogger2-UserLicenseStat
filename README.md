@@ -39,6 +39,7 @@ ASCII text, with CRLF line terminators
 
 
 EXAMPLE:  
+<pre>
 [somalipirate@localhost sszdr-slfs1]$ ./NezUserLicenseStat -d=2016-06-14  
 DataService.log 16-Jun-2016  
 Loading...  
@@ -64,7 +65,6 @@ Loading...
 DataService.log.7 13-Jun-2016  
 Loading...  
 640886/640886 100% 14.48sec
-<pre>
        Date Hour AdminMax AdminMin LiteMax LiteMin  
 14-Jun-2016    0        8        8      36      36  
 14-Jun-2016    1        8        8      36      36  
