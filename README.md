@@ -15,8 +15,11 @@ String:
 
 Options start:
 1) Search the current date
+
 ./NezUserLicenseStat
+
 2) Search the specific date
+
 ./NezUserLicenseStat -d=2016-06-14
 
 
@@ -89,4 +92,6 @@ Loading...
 14-Jun-2016   21        8        8      27      24
 14-Jun-2016   22        8        8      27      27
 14-Jun-2016   23        8        8      27      27
+
+
 
