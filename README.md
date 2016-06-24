@@ -63,7 +63,8 @@ Loading...
 641125/641125 100% 14.38sec  
 DataService.log.7 13-Jun-2016  
 Loading...  
-640886/640886 100% 14.48sec  
+640886/640886 100% 14.48sec
+<pre>
        Date Hour AdminMax AdminMin LiteMax LiteMin  
 14-Jun-2016    0        8        8      36      36  
 14-Jun-2016    1        8        8      36      36  
@@ -89,4 +90,4 @@ Loading...
 14-Jun-2016   21        8        8      27      24  
 14-Jun-2016   22        8        8      27      27  
 14-Jun-2016   23        8        8      27      27  
-
+</pre>
